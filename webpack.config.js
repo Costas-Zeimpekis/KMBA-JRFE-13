@@ -11,7 +11,7 @@ module.exports = {
     open: true,
     hot: true,
   },
-  entry: { main: path.resolve(__dirname, "src/index.ts") },
+  entry: { main: path.resolve(__dirname, "src/index.js") },
   mode: "development",
   output: {
     path: path.resolve(__dirname, "dist"),

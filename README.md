@@ -1,2 +1,2 @@
-# webpack-boilerplate
-A webpack boilerplate to get started with Sass and TypeScript
+# KMBA-JRFE-13
+Class about Supersets like TypeScript and Sass
